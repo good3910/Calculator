@@ -1,0 +1,147 @@
+body{
+    margin-left: -8px;
+    margin-top: -8px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.header{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    padding-bottom: 60px;
+    height: 150px;
+}
+
+.sosi{
+    width: 800px;
+    text-align: center;
+    border: 1px;
+    background-color: #fbab18;
+    border-radius: 125px;
+    margin-bottom: 50px;
+}
+
+
+
+.main-titel{
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: bold;
+    color: black;
+}
+
+.main{
+    width: 340px;
+    height: 125px;
+    padding: 10px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input1{
+    align-items: right;
+    text-align: right;
+    font-size: 50px;
+    color: white;
+    top: 0;
+    bottom: 0;
+    text-align: right;
+}
+
+
+.button_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.first-line{
+    size: 40px 40px;
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border-color: 0;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.first-line:hover{
+    background-color: #9b9797;
+}
+
+.first-line:active{
+    background-color: #adaaaa;
+}
+
+.button_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.Second-line{
+    size: 40px 40px;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border-color: 0;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.Second-line:hover{
+    background-color: #cfcfcf;
+}
+
+.button_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.therd-line{
+    size: 40px 40px;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border-color: 0;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.therd-line:hover{
+    background-color: #cfcfcf;
+}
+
+
+
+
+
+
+#zero{
+    width: 170px;
+    height: 80px;
+}
+
+#orange{
+    background-color: #fbab18;
+}
+
+#orange:hover{
+    background-color: #ffb327;
+}
+
+#orange:active{
+    background-color: #ffb732;
+}
+
